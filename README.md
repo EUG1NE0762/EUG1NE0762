@@ -1,16 +1,20 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Eugene%20Zulu&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%40%20Euruna%20Technologies&descSize=20&descAlignY=60" alt="Header" width="100%" />
+</p>
+
 <div align="center">
 
-# Hi, I'm Eugene Zulu 👋
-
-### Software Developer @ Euruna Technologies
-
-<a href="https://github.com/EUG1NE0762"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=620&lines=Software+Developer;Building+useful+web+software;Turning+ideas+into+working+products" alt="Typing SVG" /></a>
+<a href="https://github.com/EUG1NE0762"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+Eugene+Zulu+%F0%9F%91%8B;Software+Developer;Building+useful+web+software;Turning+ideas+into+working+products" alt="Typing SVG" /></a>
 
 <br/>
 
 <a href="mailto:eugene40zulu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/EUG1NE0762"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://github.com/eurunatech"><img src="https://img.shields.io/badge/Euruna_Technologies-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white" alt="Euruna Technologies" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=EUG1NE0762&label=Profile%20views&color=2ea043&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -31,13 +35,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,ts,react,vite,git,github&theme=dark&perline=7" alt="Tech stack" /></a>
 </p>
 
 ---
@@ -72,11 +70,12 @@
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=EUG1NE0762&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
@@ -89,3 +88,7 @@
 ⭐ Thanks for stopping by!
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="Footer" width="100%" />
+</p>
