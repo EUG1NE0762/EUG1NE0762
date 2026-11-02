@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Eugene%20Zulu&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%40%20Euruna%20Technologies&descSize=20&descAlignY=60" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Eugene%20Zulu&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%40%20Euruna%20Technologies&descSize=20&descAlignY=60" alt="Header" width="100%" />
 </p>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 </div>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/EUG1NE0762/EUG1NE0762/main/assets/divider.svg" width="100%" alt="" /></p>
 
 ## 🚀 About Me
 
@@ -30,7 +30,7 @@
 
 > "I don't just write code. I build solutions that solve real-world problems."
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/EUG1NE0762/EUG1NE0762/main/assets/divider.svg" width="100%" alt="" /></p>
 
 ## ⚡ Tech Stack
 
@@ -38,7 +38,7 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,ts,react,vite,git,github&theme=dark&perline=7" alt="Tech stack" /></a>
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/EUG1NE0762/EUG1NE0762/main/assets/divider.svg" width="100%" alt="" /></p>
 
 ## 💼 Featured Projects
 
@@ -68,7 +68,7 @@
   </tr>
 </table>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/EUG1NE0762/EUG1NE0762/main/assets/divider.svg" width="100%" alt="" /></p>
 
 ## 📈 GitHub Analytics
 
@@ -76,8 +76,7 @@
   <img src="https://streak-stats.demolab.com?user=EUG1NE0762&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
----
+<p align="center"><img src="https://raw.githubusercontent.com/EUG1NE0762/EUG1NE0762/main/assets/divider.svg" width="100%" alt="" /></p>
 
 <div align="center">
 
